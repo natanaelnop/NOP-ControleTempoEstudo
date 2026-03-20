@@ -1,0 +1,16 @@
+# Arquivos de log e histórico gerados pelo programa
+historico_estudos.txt
+historico_estudos_*.txt
+
+# Pastas de cache do Python (geradas automaticamente)
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+pyvenv.cfg
+venv/
+.venv/
+
+# Arquivos de configuração de IDEs
+.idea/
+.vscode/
